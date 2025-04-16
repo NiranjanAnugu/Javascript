@@ -6,3 +6,8 @@
 ## Javascript Runtime
 
 ![Javascript Runtime](./Images/VisualJavascriptRuntime.png)
+
+
+### Javascript Web API
+
+![WEB](./Images/WebAPI.png)
