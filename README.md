@@ -5,4 +5,4 @@
 
 ## Javascript Runtime
 
-![Javascript Runtime](images/VisualJavascriptRuntime.png)
+![Javascript Runtime](./Images/VisualJavascriptRuntime.png)
